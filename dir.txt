@@ -1,0 +1,40 @@
+surname: Иванов;
+name: Иван;
+phone: 87779990033;
+describtion: работа
+
+surname: Петров;
+name: Петр;
+phone: 37774448822;
+describtion: дом
+
+surname: Сталлоне;
+name: Сильвестр;
+phone: +98 345 321 88 99;
+describtion: киносъемка
+
+surname: Грозный;
+name: Иван;
+phone: 98883334411;
+describtion: Русь великая
+
+surname: Заморская;
+name: Каролина;
+phone: 855599944333;
+describtion: столовая
+
+surname: Николаев;
+name: Марат;
+phone: +9 777 666 567 8877;
+describtion: улица.
+
+surname: Заушкин;
+name: Сергей;
+phone: 76 777 888 66 77;
+describtion: работа.
+
+surname: Маркин;
+name: Владимир;
+phone: 87656787766;
+describtion: дом.
+
